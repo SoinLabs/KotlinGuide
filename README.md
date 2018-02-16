@@ -1,5 +1,5 @@
 # KotlinGuide
-SOIN Labs Guidelines to learing and creating a Kotlin project with Google's Android Architecture Components Library
+SOIN Labs Guidelines to learning and creating a Kotlin project with Google's Android Architecture Components Library
 
 ## Some useful articles
 - Google Samples - Architecture -> https://github.com/googlesamples/android-architecture
